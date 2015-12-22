@@ -1,0 +1,8 @@
+[Bb]in
+[Oo]bj
+*.suo
+*.user
+*.cache
+*.db
+*.exe
+/src/packages

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <system.data>
+    <DbProviderFactories>
+      <remove invariant="Oracle.DataAccess.Client" />
+      <add name="Modem ODP.NET"
+           invariant="Oracle.DataAccess.Client"
+           description="Modem Oracle Data Provider for .NET"
+           type="System.Data.Entity.Oracle.OracleClientFactory, EntityFramework.Oracle" />
+    </DbProviderFactories>
+  </system.data>
+</configuration>

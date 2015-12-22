@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using Modem.NewAmt;
-using Modem.NewAmt.Data;
+using Modem.Amt.Export;
+using Modem.Amt.Export.Data;
 using NUnit.Framework;
 
 namespace LongPollingTest.Test
